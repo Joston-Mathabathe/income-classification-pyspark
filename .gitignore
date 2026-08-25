@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Data
+*.zip
+adult.data
+adult.test
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
