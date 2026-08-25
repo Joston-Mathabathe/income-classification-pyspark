@@ -101,7 +101,7 @@ income-classification-pyspark/
 
 ## Author
 
-**Reitumetse Mathabathe**
+**Joston Mathabathe**
 
 Postgraduate Diploma in Data Science | Business Management
 
